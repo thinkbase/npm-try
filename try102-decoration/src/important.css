@@ -1,0 +1,3 @@
+.decoration-cls-important:before {
+	content: url(images/important.png);
+}
