@@ -15,6 +15,7 @@ Prepare
 ========
  1. Run `npm init` to build package.json;
  2. Run `npm install ... --save-dev --verbose` to prepare the develop dependencies;
+
          npm install \
             gaze gulp gulp-util gulp-sourcemaps del \
             gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-rename \
