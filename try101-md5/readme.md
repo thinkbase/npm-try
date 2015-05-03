@@ -2,6 +2,8 @@ About
 ========
 This is the very simple "single" javascript module, which has no dependency.
 
+This package includes a function "MD5" as example.
+
 Conventions
 ========
  - `src`: The sources
