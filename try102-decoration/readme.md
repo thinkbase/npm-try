@@ -24,10 +24,16 @@ Prepare
             gulp gulp-util gulp-sourcemaps del \
             gulp-jshint gulp-sass gulp-concat gulp-uglify gulp-minify-css gulp-rename \
             gulp-connect gulp-watch \
-            browserify browserify-css gulp-browserify \
+            browserify browserify-css \
             --save-dev --verbose
 
 Usage
 ========
  1. `gulp` to build debug distribution and deploy `test/index.html` at `http://localhost:8888` ;
  2. `gulp build` to create a release distribution;
+
+More & Ref ...
+========
+ - <https://www.npmjs.com/package/parcelify>
+ - <https://github.com/thlorenz/browserify-shim>
+ - <http://www.css88.com/archives/5537>
